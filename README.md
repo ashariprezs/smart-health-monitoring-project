@@ -217,3 +217,8 @@ Here's how to set up this project
 - Enable i2c and 1-wire, type `sudo raspi-config`, *Interfacing Option*, enable *I2C* and *1-Wire*
 - Reboot system
 - Run main script by typing `sudo python main.py`
+
+## Authors
+
+- [@ashariprezs](https://www.github.com/ashariprezs)
+- [@MuhammadNauvalDwiAfandi](https://www.github.com/MuhammadNauvalDwiAfandi)
